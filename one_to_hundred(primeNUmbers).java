@@ -1,4 +1,4 @@
-public class PrimeNumbers {
+public class one_to_hundred(primeNUmbers) {
     public static void main(String[] args) {
         System.out.println("Prime numbers between 1 and 100:");
         for (int number = 2; number <= 100; number++) {
